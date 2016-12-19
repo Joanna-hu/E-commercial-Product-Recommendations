@@ -1,6 +1,7 @@
 # E-commercial-Product-Recommendations
 
 There are three parts of code: 
+
 1. DataRetrieve.ipynb
 It serves to preprocess the dataset. 
 put amazon-meta.txt(input dataset) in the same directory of DataRetrieve.ipynb
