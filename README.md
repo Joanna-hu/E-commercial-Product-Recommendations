@@ -11,7 +11,6 @@ run the program
 
 The output will appear in the same directory with the name rater.txt
 
-
 2. spark_recommendation.py
 It serves to do recommendation on spark. 
 
